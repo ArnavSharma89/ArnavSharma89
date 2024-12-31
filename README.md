@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @ArnavSharma89
-- 👀 I’m interested in web development
-- 📫 How to reach me my discord -> @arnavexe#2792
-
-
+Hi , I am Arnav Sharma ^_^
+I am Interested in Game Development :3
