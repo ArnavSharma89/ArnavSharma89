@@ -1,2 +1,2 @@
-Hi , I am Arnav Sharma ^_^
-I am Interested in Game Development :3
+Hi , I am Arnav
+I am Interested in Game Development and computer graphics (mainly openGL)
